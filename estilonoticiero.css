@@ -1,0 +1,51 @@
+body
+{ 
+    background: #DAF7A6;
+}
+h1{
+    font-size: 100 px;
+    color: black;
+    margin: 20 px;
+}
+
+h2 {
+    font-size: 30 px;
+}
+
+.menu {
+   display: flex;
+     margin:100 px;
+    background-color:yellow;
+    justify-content: space-around;
+}
+
+.menuinferior {
+    
+    
+    background-color: black;
+    font-size: 50 px;
+}
+
+
+div
+{
+   justify-content: center;
+    border-radius: 5 px;
+  
+   border: 10 px solid gray;
+}
+.imagen1
+{
+    float: center;
+}
+
+.text
+{ 
+    float: left;
+    justify-content: left;
+}
+.text2
+{ 
+    float: center;
+    border: dotted;
+}
